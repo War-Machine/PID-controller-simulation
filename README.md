@@ -59,6 +59,15 @@ u(t) = Kp*e(t) + Ki∫e(t)dt + Kd(de(t)/dt)
 
 ---
 
+## PID Controller Equation
+
+   ## Simulation Output
+
+![PID Response](screenshots/pid-response.png)
+
+
+
 ## Author
 
 Ankur
+student
